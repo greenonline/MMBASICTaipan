@@ -1,7 +1,7 @@
 # MMBASICTaipan
-A port of Taipan! to MMBASIC, principally for the PicoMite "boot-to-BASIC" computer.
+A port of the [book version](https://taipangame.com/pdf/TaipanAHistoricalAdventureForTheAppleComputerAppleIIEdition.pdf) of [Taipan!](https://taipangame.com) to MMBASIC, principally for the PicoMite "boot-to-BASIC" computer.
 
-A work in progress... some UI placement issues persist.
+Complete and playable. However, some *minor* UI placement issues persist (and are *work in progress*).
 
 ## See also
 
