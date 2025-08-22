@@ -13,3 +13,4 @@ Complete and playable. However, some *minor* UI placement issues persist (and ar
  - [BBCTaipan](https://github.com/greenonline/BBCTaipan)
  - [MacTaipan](https://github.com/greenonline/MacTaipan)
  - [Taipan_40_Column_Apple_II](https://github.com/greenonline/Taipan_40_Column_Apple_II)
+ - [CommanderX16Taipan](https://github.com/greenonline/CommanderX16Taipan)
